@@ -17,9 +17,10 @@
 
 
 ### Подписывайтесь на меня
-![VK](https://img.shields.io/badge/-Telegram-0C121A?style=for-the-badge&logo=vk)
-![Telegram](https://img.shields.io/badge/-Telegram-0C121A?style=for-the-badge&logo=Telegram&logoColor=FFF)
-![YouTube](https://img.shields.io/badge/-YouTube-0C121A?style=for-the-badge&logo=youtube)
-![Discord](https://img.shields.io/badge/-Discord-0C121A?style=for-the-badge&logo=discord&logoColor=FFF)
+[![VK](https://img.shields.io/badge/-Telegram-0C121A?style=for-the-badge&logo=vk)](https://vk.com/zzakharov666)
+[![Telegram](https://img.shields.io/badge/-Telegram-0C121A?style=for-the-badge&logo=Telegram&logoColor=FFF)](https://web.telegram.org/k/#@zzakharovv)
+[![YouTube](https://img.shields.io/badge/-YouTube-0C121A?style=for-the-badge&logo=youtube)](https://www.youtube.com/@flomd)
+
+<!-- ![Discord](https://img.shields.io/badge/-Discord-0C121A?style=for-the-badge&logo=discord&logoColor=FFF)
 ![Steam](https://img.shields.io/badge/-Steam-0C121A?style=for-the-badge&logo=steam)
-![Epic Games](https://img.shields.io/badge/-Epic_Games-0C121A?style=for-the-badge&logo=epicgames)
+![Epic Games](https://img.shields.io/badge/-Epic_Games-0C121A?style=for-the-badge&logo=epicgames) -->

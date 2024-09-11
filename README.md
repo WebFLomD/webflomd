@@ -20,7 +20,7 @@
 [![VK](https://img.shields.io/badge/-Telegram-0C121A?style=for-the-badge&logo=vk)](https://vk.com/zzakharov666)
 [![Telegram](https://img.shields.io/badge/-Telegram-0C121A?style=for-the-badge&logo=Telegram&logoColor=FFF)](https://web.telegram.org/k/#@zzakharovv)
 [![YouTube](https://img.shields.io/badge/-YouTube-0C121A?style=for-the-badge&logo=youtube)](https://www.youtube.com/@flomd)
-[![Email](https://img.shields.io/badge/-Email-0C121A?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:sashaplay9@gmail.com)
+<!-- [![Email](https://img.shields.io/badge/-Email-0C121A?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:sashaplay9@gmail.com) -->
 
 
 

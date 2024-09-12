@@ -13,18 +13,23 @@
 
 Если у вас есть предложения или идеи для сотрудничества, пожалуйста, свяжитесь со мной. Буду рад обсудить возможные варианты.
 
+### Как связаться со мной
+- __VK__ [zzakharov666](https://vk.com/zzakharov666)
+- __Telegram:__ [@zzakharovv](https://web.telegram.org/k/#@zzakharovv)
 - __Email:__ sashaplay9@gmail.com
+<!-- - __Discord:__ flomd -->
+
 
 ### Стек технологий
 ![HTML](https://img.shields.io/badge/-HTML-0C121A?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-0C121A?style=for-the-badge&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0C121A?style=for-the-badge&logo=JavaScript)
 ![PHP](https://img.shields.io/badge/-PHP-0C121A?style=for-the-badge&logo=PHP)
-![Yii](https://img.shields.io/badge/-Yii-0C121A?style=for-the-badge&logo=Yii)
 ![C++](https://img.shields.io/badge/-C++-0C121A?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![Python](https://img.shields.io/badge/-Python-0C121A?style=for-the-badge&logo=python)
 ![MySQL](https://img.shields.io/badge/-MySQL-0C121A?style=for-the-badge&logo=MySQL&logoColor=FFF)
-![Figma](https://img.shields.io/badge/-Figma-0C121A?style=for-the-badge&logo=Figma)
+![Yii](https://img.shields.io/badge/-Yii-0C121A?style=for-the-badge&logo=Yii)
+![Figma](https://img.shields.io/badge/Figma-0C121A?style=for-the-badge&logo=Figma&logoColor=FFF)
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-0C121A?style=for-the-badge&logo=adobeillustrator)
 ![Git](https://img.shields.io/badge/-Git-0C121A?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-0C121A?style=for-the-badge&logo=github)
@@ -38,8 +43,10 @@
 <!-- [![Telegram](https://img.shields.io/badge/-Telegram-0C121A?style=for-the-badge&logo=Telegram&logoColor=FFF)](https://web.telegram.org/k/#@zzakharovv) -->
 <!-- [![Email](https://img.shields.io/badge/-Email-0C121A?style=for-the-badge&logo=gmail&logoColor=FFF)](mailto:sashaplay9@gmail.com) -->
 
+<!-- ### Советую посмотреть эти проекты
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WebFLomD&repo=Drivers_Yii)](https://github.com/WebFLomD/Drivers_Yii)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WebFLomD&repo=CyberClub_PyQt5)](https://github.com/WebFLomD/CyberClub_PyQt5) -->
 
 <!-- ![Discord](https://img.shields.io/badge/-Discord-0C121A?style=for-the-badge&logo=discord&logoColor=FFF)
 ![Steam](https://img.shields.io/badge/-Steam-0C121A?style=for-the-badge&logo=steam)

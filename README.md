@@ -21,7 +21,6 @@
 - __Email:__ sashaplay9@gmail.com
 <!-- - __Discord:__ flomd -->
 
-
 ### Стек технологий
 ![HTML](https://img.shields.io/badge/-HTML-0C121A?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-0C121A?style=for-the-badge&logo=CSS3)
@@ -38,6 +37,13 @@
 <!-- ![Vue.js](https://img.shields.io/badge/-Vue.js-0C121A?style=for-the-badge&logo=vuedotjs) 
 ![React](https://img.shields.io/badge/-React-0C121A?style=for-the-badge&logo=react)-->
 
+
+### Осваиваю новые технологии
+![Vue.js](https://img.shields.io/badge/-Vue.js-0C121A?style=for-the-badge&logo=vuedotjs) 
+![React](https://img.shields.io/badge/-React-0C121A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-0C121A?style=for-the-badge&logo=nodedotjs)
+![Laravel](https://img.shields.io/badge/-Laravel-0C121A?style=for-the-badge&logo=laravel)
+![WordPress](https://img.shields.io/badge/-WordPress-0C121A?style=for-the-badge&logo=wordpress)
 
 ### Подписывайтесь на меня
 [![VK](https://img.shields.io/badge/-VK-0C121A?style=for-the-badge&logo=vk)](https://vk.com/zzakharov666)

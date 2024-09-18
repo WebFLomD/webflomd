@@ -53,5 +53,3 @@
 <!-- ![Discord](https://img.shields.io/badge/-Discord-0C121A?style=for-the-badge&logo=discord&logoColor=FFF)
 ![Steam](https://img.shields.io/badge/-Steam-0C121A?style=for-the-badge&logo=steam)
 ![Epic Games](https://img.shields.io/badge/-Epic_Games-0C121A?style=for-the-badge&logo=epicgames) -->
-
-![](https://komarev.com/ghpvc/?username=webflomd)

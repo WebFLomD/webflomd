@@ -26,7 +26,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-0C121A?style=for-the-badge&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0C121A?style=for-the-badge&logo=JavaScript)
 ![PHP](https://img.shields.io/badge/-PHP-0C121A?style=for-the-badge&logo=PHP)
-![C++](https://img.shields.io/badge/-C++-0C121A?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![Python](https://img.shields.io/badge/-Python-0C121A?style=for-the-badge&logo=python)
 ![MySQL](https://img.shields.io/badge/-MySQL-0C121A?style=for-the-badge&logo=MySQL&logoColor=FFF)
 ![Yii](https://img.shields.io/badge/-Yii-0C121A?style=for-the-badge&logo=Yii)
